@@ -188,7 +188,7 @@
                         fontWeight: "700",
                         userSelect: "text"
                     },
-                    innerHTML: "GitHub - officail-bugha",
+                    innerHTML: "GitHub - Official-Bugha",
                     onclick: () => window.open("https://github.com/Official-Bugha/Official-Bugha/blob/main/Blooket%20Hacks", "_blank").focus()
                 }),
                 (controlButtons = createElement("div", {
