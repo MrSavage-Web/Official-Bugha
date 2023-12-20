@@ -25,7 +25,7 @@ let keys = [zero, one, two, three, four, five, six, seven, eight, nine]
 
 keys.forEach(key => {
     if (key == null && window.location.href.includes("/play/")) {
-    alert("Script outdated. Please check for update")
+    alert("Script already run Re enter the script in console (Ctrl + shift + i) to get hacks working again")
     }
 })
         question = document.querySelector("ttr-game-question:nth-child(2)").innerText
