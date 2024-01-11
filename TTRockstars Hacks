@@ -1,6 +1,6 @@
 console.log("Initialisation complete!")
 alert("Welcome to the best ttrs hack in the world. Press the space bar to auto answer a question for you. Do not press the spacebar too fast or the game's anticheat will kick you out.")
-alert("Script made by Official-Bugha (Kian John) ")
+alert("Script made by MrSavage (Kian John) ")
 
 
 document.addEventListener('keydown', (e) => {
